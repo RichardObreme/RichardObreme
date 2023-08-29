@@ -20,6 +20,7 @@
     <img alt="logo-react-router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white&style=flat" height="20" />
     <img alt="logo-tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="20" />
     <img alt="logo-nextjs" src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&logoColor=white&style=flat" height="20" />
+    <img alt="logo-symfony" src="https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white&style=flat" height="20" />
     <img alt="logo-laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" height="20" />
   </div>
 </div>
