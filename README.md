@@ -30,6 +30,7 @@
     <img alt="logo-postcss" src="https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss&logoColor=white&style=flat" height="20" />
     <img alt="logo-eslint" src="https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat" height="20" />
     <img alt="logo-npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" height="20" />
+    <img alt="logo-yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat" height="20" />
     <img alt="logo-composer" src="https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white&style=flat" height="20" />
   </div>
   <h6>Others:</h6>
