@@ -38,7 +38,6 @@
     <img alt="logo-vscode" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" height="20" />
     <img alt="logo-git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" height="20" />
     <img alt="logo-github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat" height="20" />
-    <img alt="logo-mysql" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" height="20" />
     <img alt="logo-mariadb" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadbfoundation&logoColor=white&style=flat" height="20" />
     <img alt="logo-mongodb" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" height="20" />
     <img alt="logo-virtualbox" src="https://img.shields.io/badge/-virtualbox-183A61?logo=virtualbox&logoColor=white&style=flat" height="20" />
