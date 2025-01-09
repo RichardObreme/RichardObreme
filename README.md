@@ -16,8 +16,6 @@
   <h6>Libraries & Frameworks:</h6>
   <div>
     <img alt="logo-react" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white&style=flat" height="20" />
-    <img alt="logo-redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat" height="20" />
-    <img alt="logo-react-router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white&style=flat" height="20" />
     <img alt="logo-tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="20" />
     <img alt="logo-nextjs" src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&logoColor=white&style=flat" height="20" />
     <img alt="logo-symfony" src="https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white&style=flat" height="20" />
