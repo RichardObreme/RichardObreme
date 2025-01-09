@@ -16,6 +16,9 @@
   <h6>Libraries & Frameworks:</h6>
   <div>
     <img alt="logo-react" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white&style=flat" height="20" />
+    <img alt="logo-shadcn-ui" src="https://img.shields.io/badge/-shadcn/ui-black?logo=shadcnui&logoColor=white&style=flat" height="20" />
+    <img alt="logo-react-hook-form" src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&style=flat" height="20" />
+    <img alt="logo-zod" src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white&style=flat" height="20" />
     <img alt="logo-tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="20" />
     <img alt="logo-nextjs" src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&logoColor=white&style=flat" height="20" />
     <img alt="logo-symfony" src="https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white&style=flat" height="20" />
