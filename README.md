@@ -13,18 +13,22 @@
     <img alt="logo-typescript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flatw" height="20" />
     <img alt="logo-sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat" height="20" />
   </div>
-  <h6>Libraries & Frameworks:</h6>
+  <h6>Libraries:</h6>
   <div>
     <img alt="logo-react" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white&style=flat" height="20" />
     <img alt="logo-shadcn-ui" src="https://img.shields.io/badge/-shadcn/ui-black?logo=shadcnui&logoColor=white&style=flat" height="20" />
     <img alt="logo-react-hook-form" src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&style=flat" height="20" />
     <img alt="logo-zod" src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white&style=flat" height="20" />
     <img alt="logo-tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="20" />
+    <img alt="logo-prisma" src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat" height="20" />
+    <img alt="logo-drizzle" src="https://img.shields.io/badge/-Drizzle-C5F74F?logo=drizzle&logoColor=white&style=flat" height="20" />
+  </div>
+  <h6>Frameworks:</h6>
+  <div>
     <img alt="logo-nextjs" src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&logoColor=white&style=flat" height="20" />
     <img alt="logo-symfony" src="https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white&style=flat" height="20" />
   </div>
-</div>
- <h6>Tools:</h6>
+  <h6>Tools:</h6>
   <div>
     <img alt="logo-vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=ffdd00&style=flat" height="20" />
     <img alt="logo-postcss" src="https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss&logoColor=white&style=flat" height="20" />
