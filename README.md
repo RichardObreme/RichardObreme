@@ -21,7 +21,7 @@
     <img alt="logo-zod" src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white&style=flat" height="20" />
     <img alt="logo-tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="20" />
     <img alt="logo-prisma" src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat" height="20" />
-    <img alt="logo-drizzle" src="https://img.shields.io/badge/-Drizzle-C5F74F?logo=drizzle&logoColor=white&style=flat" height="20" />
+    <img alt="logo-drizzle" src="https://img.shields.io/badge/-Drizzle-black?logo=drizzle&logoColor=C5F74F&style=flat" height="20" />
   </div>
   <h6>Frameworks:</h6>
   <div>
